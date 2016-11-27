@@ -1,0 +1,3 @@
+C:\Users\palt4\Documents\Unreal Projects\InfiniteRunner\Source\InfiniteRunner\InfiniteRunner.Build.cs
+C:\Users\palt4\Documents\Unreal Projects\InfiniteRunner\Source\InfiniteRunner.Target.cs
+C:\Users\palt4\Documents\Unreal Projects\InfiniteRunner\Source\InfiniteRunnerEditor.Target.cs
